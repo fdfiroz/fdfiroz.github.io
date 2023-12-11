@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebf6ec14.css",
+    "main.js": "/static/js/main.f636f635.js",
+    "static/media/FirozAhamed.jpg": "/static/media/FirozAhamed.41b794ab1c3b63497812.jpg",
+    "static/media/project.svg": "/static/media/project.47ffa10a0b53d23d2378366840a69e46.svg",
+    "static/media/object.svg": "/static/media/object.37bc0a360857bc66a79838b24000fa8c.svg",
+    "static/media/education.svg": "/static/media/education.75e9dd5c197e46ae7ba6c1ba0121055b.svg",
+    "static/media/idea.svg": "/static/media/idea.554cf792af5a49e9ff3a9e7890a39823.svg",
+    "static/media/address.svg": "/static/media/address.be854f0bef7470a0d534642700be9059.svg",
+    "static/media/skill.svg": "/static/media/skill.6566ef13193b0c54166238ec27cd682a.svg",
+    "static/media/ref.svg": "/static/media/ref.75d32b2989856bfc7c0baa2485874963.svg",
+    "static/media/me.svg": "/static/media/me.d59c1ed911ace769faf14507961f9f00.svg",
+    "static/media/star.svg": "/static/media/star.44757b1e7b790dffadf9bc9f793bdfcf.svg",
+    "static/media/grid.svg": "/static/media/grid.8a20ddfd58edfe59fc49ff0ddd240f74.svg",
+    "index.html": "/index.html",
+    "static/media/right-arrow.svg": "/static/media/right-arrow.aa86bf3bdb365e460bc15653c20c1024.svg",
+    "static/media/border-arrow.svg": "/static/media/border-arrow.b23975df0d8728d7b5b0f67f0bc7e9fb.svg",
+    "main.ebf6ec14.css.map": "/static/css/main.ebf6ec14.css.map",
+    "main.f636f635.js.map": "/static/js/main.f636f635.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebf6ec14.css",
+    "static/js/main.f636f635.js"
+  ]
+}
